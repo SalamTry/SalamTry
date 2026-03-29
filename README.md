@@ -41,3 +41,11 @@ Go, Python, Swift — whatever the problem needs.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=SalamTry&color=8A7E6B&style=flat-square&label=visitors" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalamTry/SalamTry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalamTry/SalamTry/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SalamTry/SalamTry/output/github-snake-dark.svg" />
+</picture>
